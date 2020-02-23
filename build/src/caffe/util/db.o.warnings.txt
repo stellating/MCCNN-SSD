@@ -1,0 +1,4 @@
+In file included from ./include/caffe/util/db.hpp:6:0,
+                 from src/caffe/util/db.cpp:1:
+./include/caffe/common.hpp:5:27: fatal error: gflags/gflags.h: No such file or directory
+compilation terminated.
